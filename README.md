@@ -1,5 +1,5 @@
 "# ch_ecommerce_amazon_bvp" 
-# Download of Amazon Brand View Pro data from Amazon servers
-# Extract sheets data and transform into digestable CSV files
-# Transform sheet data
-# Upload to GCS storage
+
+Process that downloads Amazon Advertising BrandView Pro data, expands, transforms and stores prepared CSV files in Google Cloud Storage.
+Amazon Advertising credentials not stored.
+Google Cloud service account credentials not stored.
